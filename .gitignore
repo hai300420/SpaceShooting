@@ -1,0 +1,19 @@
+# Ignore Library, Temp, Logs, and Build folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore local Unity settings
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
